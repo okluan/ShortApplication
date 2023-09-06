@@ -1,1 +1,16 @@
 https://tpvncode.blogspot.com/2022/12/glass-animation-html-css.html
+https://www.youtube.com/@thinhphamvn/about
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Glass Animation</title>
+    <link rel="stylesheet" href="">
+</head>
+<body>
+
+</body>
+</html>
+
+
